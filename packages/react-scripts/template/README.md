@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Altura Soluciones Create React App](https://github.com/AlturaSoluciones/create-react-app).
 
 ## Available Scripts
 
